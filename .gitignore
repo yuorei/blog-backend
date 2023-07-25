@@ -143,3 +143,4 @@ yarn-debug.log*
 
 keyfile.json
 .env*
+firebase.yml
